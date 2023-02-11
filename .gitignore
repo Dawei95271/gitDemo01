@@ -27,5 +27,7 @@ hs_err_pid*
 *.iws
 *.iml
 *.ipr
+
+### 自定义
 **/mvnw
 **/mvnw.cmd
